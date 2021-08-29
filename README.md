@@ -1,1 +1,0 @@
-# TTM_Squeeze_Scanner
